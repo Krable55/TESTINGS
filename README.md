@@ -1,2 +1,0 @@
-# TESTINGS
-Created with CodeSandbox
